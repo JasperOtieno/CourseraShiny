@@ -59,5 +59,4 @@ shinyServer(function(input, output) {
         facet_wrap(~prediction)   # facet by prediction
     }
   })
-  
 })
