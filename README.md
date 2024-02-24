@@ -1,6 +1,6 @@
 # RShiny Visualizatiton Project
 
-This is a visualization dashboard project taken to gain knowledge on creating a visualization app using RShiny as part of the R Visualization online course offered by Coursera.
+This is a visualization dashboard project to gain knowledge on creating a visualization app using RShiny as part of the R Visualization online course offered by Coursera.
 
 ## Objective
 
